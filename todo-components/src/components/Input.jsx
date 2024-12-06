@@ -15,7 +15,7 @@ const Input = (props) => {
 					value={value}
 					onChange={(e) => onChange(e.target.value)}
 				/>
-				<button type="submit">Add</button>
+				<button type="submit">Add Button</button>
 			</div>
 		</form>
 	);
